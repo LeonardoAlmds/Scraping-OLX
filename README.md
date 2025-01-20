@@ -95,6 +95,7 @@ self.link = "https://www.olx.com.br/autos-e-pecas/carros-vans-e-utilitarios/esta
 - Implementar suporte a múltiplos sites de busca.
 - Adicionar um sistema de logs para rastrear o progresso e eventuais erros.
 - Incluir uma interface gráfica para facilitar o uso do scraper.
+- Realizar uma analise de dados.
 
 ## Contribuição
 
