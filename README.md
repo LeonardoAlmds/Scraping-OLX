@@ -8,6 +8,20 @@ Este projeto é um **web scraper** desenvolvido em Python que coleta informaçõ
 - **Navegação automatizada**: O script percorre as páginas de resultados automaticamente.
 - **Geração de planilha**: Os dados coletados são armazenados em uma planilha Excel (`sheet_price_cars.xlsx`), com títulos formatados em **negrito** e colunas ajustadas ao tamanho dos dados.
 
+## Demonstração
+
+### Navegador em Funcionamento
+O script abre o navegador automaticamente e começa a coletar dados:
+![Chrome em Funcionamento](images/chrome_running.png)
+
+### Planilha Gerada
+Após a execução, os dados coletados são organizados em uma planilha Excel:
+![Planilha Gerada](images/planilha_excel.png)
+
+### Execução no CMD
+O processo é iniciado no terminal, conforme mostrado abaixo:
+![Execução no CMD](images/cmd_execution.png)
+
 ## Requisitos
 
 Antes de executar o projeto, certifique-se de ter instalado os seguintes itens:
@@ -81,20 +95,6 @@ self.link = "https://www.olx.com.br/autos-e-pecas/carros-vans-e-utilitarios/esta
 - Implementar suporte a múltiplos sites de busca.
 - Adicionar um sistema de logs para rastrear o progresso e eventuais erros.
 - Incluir uma interface gráfica para facilitar o uso do scraper.
-
-## Demonstração
-
-### Navegador em Funcionamento
-O script abre o navegador automaticamente e começa a coletar dados:
-![Chrome em Funcionamento](images/chrome_running.png)
-
-### Planilha Gerada
-Após a execução, os dados coletados são organizados em uma planilha Excel:
-![Planilha Gerada](images/planilha_excel.png)
-
-### Execução no CMD
-O processo é iniciado no terminal, conforme mostrado abaixo:
-![Execução no CMD](images/cmd_execution.png)
 
 ## Contribuição
 
