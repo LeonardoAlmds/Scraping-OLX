@@ -1,4 +1,4 @@
-# Web Scraper de Carros - OLX
+# Web Scraper de Carros - OLX <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img align="center" alt="html5" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 
 Este projeto é um **web scraper** desenvolvido em Python que coleta informações de carros anunciados no site da OLX. Ele utiliza a biblioteca `selenium` para navegar no site, extrair os dados e salvá-los em uma planilha Excel para análise e organização.
 
@@ -106,8 +106,7 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` p
 
 ---
 
-**Autor**: Leonardo Almeida
+**Autor**: Leonardo Almeida.
 **Contato**: [leonardoalmd8@gmail.com](mailto:leonardoalmd8@gmail.com)
-```
 
 Você pode ajustar o conteúdo, como o link do repositório ou informações de contato, conforme necessário. 🚀
